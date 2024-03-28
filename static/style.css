@@ -109,12 +109,16 @@ div[for="head_info"] > div {
 
 div[for="head_info"] > div div:nth-child(1) {
     font-size: 14px;
+    text-align: left;
+    padding-left: 25px;
 }
 
 div[for="head_info"] > div div:nth-child(2) {
     font-size: 17px;
     font-family: averta_semibold, sans-serif;
     font-weight: 400;
+    text-align: left;
+    paddimg-left: 10px;
 }
 
 div[for="content"] {
