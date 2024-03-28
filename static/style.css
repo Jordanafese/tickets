@@ -118,7 +118,7 @@ div[for="head_info"] > div div:nth-child(2) {
     font-family: averta_semibold, sans-serif;
     font-weight: 400;
     text-align: left;
-    paddimg-left: 10px;
+    padding-left: 10px;
 }
 
 div[for="content"] {
