@@ -97,12 +97,8 @@ div[for="head"] {
 div[for="head_info"] {
     background-color: #026cdf;
     display: grid;
-<<<<<<< HEAD
     grid-template-columns: 1fr 1fr;
-=======
-    grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 4px;
->>>>>>> parent of 0398d72 (finally tracked down)
     padding: 15px 10px;
 }
 
