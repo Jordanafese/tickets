@@ -17,7 +17,7 @@ body{
 }
 
 div[for="card"] {
-    min-height: 400px;
+    min-height: 460px;
 }
 
 div[for="pay"] {
@@ -28,7 +28,7 @@ div[for="cards"] {
     display: grid;
     grid-template-columns: 1fr 1fr ;
     grid-gap: 20px;
-    width: 350px;
+    width: 400px;
     overflow-x: scroll;
     overflow-y: hidden;
     margin-left: -5px;
