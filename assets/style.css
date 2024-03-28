@@ -17,7 +17,7 @@ body{
 }
 
 div[for="card"] {
-    min-height: 460px;
+    min-height: 600px;
 }
 
 div[for="pay"] {
