@@ -43,7 +43,7 @@ function clear_modal() {
 
 
 
-var deadline = new Date("August 3, 2024 15:00:00").getTime();
+var deadline = new Date("September 14, 2024 15:00:00").getTime();
   
 var x = setInterval(function() {
   

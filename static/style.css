@@ -71,7 +71,7 @@ div[for="top-bar"] svg {
 
 main {
     max-width: 300px;
-    margin: 5px auto 2rem auto;
+    margin: 2rem auto;
     margin-bottom: 0px;
 }
 
@@ -97,7 +97,7 @@ div[for="head"] {
 div[for="head_info"] {
     background-color: #026cdf;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 4px;
     padding: 15px 10px;
 }
@@ -109,16 +109,12 @@ div[for="head_info"] > div {
 
 div[for="head_info"] > div div:nth-child(1) {
     font-size: 14px;
-    text-align: left;
-    padding-left: 25px;
 }
 
 div[for="head_info"] > div div:nth-child(2) {
     font-size: 17px;
     font-family: averta_semibold, sans-serif;
     font-weight: 400;
-    text-align: left;
-    padding-left: 10px;
 }
 
 div[for="content"] {
